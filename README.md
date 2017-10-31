@@ -13,6 +13,7 @@ How to run the program:
 2. Run ./start_server.sh;
 3. Navigate to the localhost:8000/test.html and observe results printed to the emscripten console.
 
+First 3 string in the results should be similar and human-readable, while forth is some random sequence of bytes.
 
 In short about what happens in the program.
 
